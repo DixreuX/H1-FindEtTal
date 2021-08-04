@@ -9,7 +9,6 @@ namespace GætEtTal
     public class Spilleren
     {
         // Spillerens Model / Oplysninger
-
         public string navnPåSpiller;
         public string køn;
         public int alder;

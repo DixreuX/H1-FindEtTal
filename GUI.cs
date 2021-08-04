@@ -16,11 +16,11 @@ namespace GætEtTal
         public void VelkomstTekst()
         {
             WriteLine("Velkommen til spillet GÆT ET TAL\n\nProgrammet har valgt et tilfældigt tal som du skal gætte");
-            WriteLine("Tallet er mellem 1 og 10\n\nIndtast dit navn, og tryk ENTER\n");
+            WriteLine("Tallet er mellem 1 og 10\n\nIndtast dit navn, og tryk ENTER");
             user.navnPåSpiller = ReadLine();
-            WriteLine("\nMand eller kvinde?\n");
+            WriteLine("\nIndtast dit køn, og tryk ENTER");
             user.køn = ReadLine();
-            WriteLine("\nHvad er din alder?\n");
+            WriteLine("\nIndtast din alder, og tryk ENTER");
             user.alder = Convert.ToInt32(ReadLine());
         }
 
@@ -36,12 +36,12 @@ namespace GætEtTal
 
         public void Højt()
         {
-            WriteLine("\nDu gættede for højt\n\n");
+            WriteLine("\nDu gættede for højt");
         }
 
         public void Lavt()
         {
-            WriteLine("\nDu gættede for lavt\n\n");
+            WriteLine("\nDu gættede for lavt");
         }
 
         public void IndtastTal()

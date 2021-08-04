@@ -21,8 +21,8 @@ namespace GætEtTal
         // Start metode
         public void StartSpillet()
         {
-            //GUI.VelkomstTekst(); // Intro tekst og formel
-            //GUI.BrugerInformation(); // Viser brugeren deres model
+            GUI.VelkomstTekst(); // Intro tekst og formel
+            GUI.BrugersModel(); // Viser brugeren deres model
             GUI.TrykENTERForAtStarte();
             Console.ReadKey();
             Console.Clear(); 
@@ -35,17 +35,21 @@ namespace GætEtTal
         {
             while (true) // Kører indtil der gættes rigtigt og vi breaker.
             {
-                WriteLine("Gættede tal: " + String.Join(", ", pickedNumbers));              
+                           
                 GUI.IndtastTal();
                 guessedNumber = Convert.ToInt32(ReadLine());
                 pickedNumbers.Add(guessedNumber);
 
                 if (guessedNumber < randomNumber)
                 {
+                    Clear();
+                    WriteLine("Gættede tal: " + String.Join(", ", pickedNumbers));
                     GUI.Lavt();               
                 }
                 else if (guessedNumber > randomNumber)
                 {
+                    Clear();
+                    WriteLine("Gættede tal: " + String.Join(", ", pickedNumbers));
                     GUI.Højt();
                 }
                 else
