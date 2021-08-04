@@ -1,0 +1,16 @@
+C:\Users\Bruger 1\source\repos\GætEtTal\bin\Debug\net5.0\GætEtTal.exe
+C:\Users\Bruger 1\source\repos\GætEtTal\bin\Debug\net5.0\GætEtTal.deps.json
+C:\Users\Bruger 1\source\repos\GætEtTal\bin\Debug\net5.0\GætEtTal.runtimeconfig.json
+C:\Users\Bruger 1\source\repos\GætEtTal\bin\Debug\net5.0\GætEtTal.runtimeconfig.dev.json
+C:\Users\Bruger 1\source\repos\GætEtTal\bin\Debug\net5.0\GætEtTal.dll
+C:\Users\Bruger 1\source\repos\GætEtTal\bin\Debug\net5.0\ref\GætEtTal.dll
+C:\Users\Bruger 1\source\repos\GætEtTal\bin\Debug\net5.0\GætEtTal.pdb
+C:\Users\Bruger 1\source\repos\GætEtTal\obj\Debug\net5.0\GætEtTal.csproj.AssemblyReference.cache
+C:\Users\Bruger 1\source\repos\GætEtTal\obj\Debug\net5.0\GætEtTal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger 1\source\repos\GætEtTal\obj\Debug\net5.0\GætEtTal.AssemblyInfoInputs.cache
+C:\Users\Bruger 1\source\repos\GætEtTal\obj\Debug\net5.0\GætEtTal.AssemblyInfo.cs
+C:\Users\Bruger 1\source\repos\GætEtTal\obj\Debug\net5.0\GætEtTal.csproj.CoreCompileInputs.cache
+C:\Users\Bruger 1\source\repos\GætEtTal\obj\Debug\net5.0\GætEtTal.dll
+C:\Users\Bruger 1\source\repos\GætEtTal\obj\Debug\net5.0\ref\GætEtTal.dll
+C:\Users\Bruger 1\source\repos\GætEtTal\obj\Debug\net5.0\GætEtTal.pdb
+C:\Users\Bruger 1\source\repos\GætEtTal\obj\Debug\net5.0\GætEtTal.genruntimeconfig.cache
