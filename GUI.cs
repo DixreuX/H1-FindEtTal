@@ -53,5 +53,15 @@ namespace GætEtTal
         {
             WriteLine("\nTryk ENTER for at starte");
         }
+
+        //public void StartIgen() 
+        //{
+        //    WriteLine("Vil du gerne prøve igen?\n\n[Tast ja eller nej]\n");
+        //}
+
+        public void Farvel()
+        {
+            WriteLine("Tak for denne gang! Håber at vi ses igen!\n\nTRYK PÅ ENTER FOR AT LUKKE PROGRAMMET");
+        }
     }
 }
